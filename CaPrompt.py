@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Import necessary libraries
 import streamlit as st
 from PIL import Image
